@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.8-20261020231030\/Parallax-Beta.ipa",
-    "latestBuild" : 20261020231030,
-    "latestVersion" : "1.0.8",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9-20261020231559\/Parallax-Beta.ipa",
+    "latestBuild" : 20261020231559,
+    "latestVersion" : "1.0.9",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Restaurada la reproducción de HLS e ISML (vuelta al estado previo a 1.0.7).",
-    "size" : 96147779
+    "releaseNotes" : "Código de reproducción restaurado a la 1.0.3 (HLS e ISML).",
+    "size" : 96120893
   },
-  "sig" : "letS_lopS70WvomdtpvXBIKVFKX_0nl1JpbVYwgLUorbPkyIRTP6KOgwJZFCuCuqf0j5JQG7vVKHN4xqy350DA"
+  "sig" : "Kqakkf8FMVBnTYZFLbZ2w_xoctnrO18K-H7VgidPrhZyBsLLGUoxowYfJbp_j-WGAEghx2IRROMAeD_bGv5wDQ"
 }
