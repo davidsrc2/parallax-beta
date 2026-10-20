@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.8-20261021002156\/Parallax-Beta.ipa",
-    "latestBuild" : 20261021002156,
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.8-20261021002938\/Parallax-Beta.ipa",
+    "latestBuild" : 20261021002938,
     "latestVersion" : "1.0.9.8",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Selector de calidad en pantalla completa y en canales HLS. Guía TV: desplazamiento solo horizontal o vertical.",
-    "size" : 96177540
+    "releaseNotes" : "Selector de calidad, guía por ejes, MPD cifrados. Corregidos los cierres al cambiar de canal y al abrir la app tras actualizar.",
+    "size" : 96176121
   },
-  "sig" : "L_KzWP7M5g_tZwuTXp__0FNuvA02wsqdZIhjkzktoAqoDhsJVI_vJkwvCDGEr6V1YYUeJ-_C_msXcVIM9eLOBw"
+  "sig" : "_NgDt5Xe_lHVXIQLPK0nQXXlNcRSQPb_hAhCuX7PMxxgsyfxyQHZ7iXXxakVeqglw3FDTelnp_Kpa90Lc6pHBA"
 }
