@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.1-20261020153308\/Parallax-Beta.ipa",
-    "latestBuild" : 20261020153308,
-    "latestVersion" : "1.0.1",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.2-20261020154115\/Parallax-Beta.ipa",
+    "latestBuild" : 20261020154115,
+    "latestVersion" : "1.0.2",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Arreglados los canales cifrados con claves y los no cifrados que daban flujo protegido. Al quitar una lista sus canales salen de Inicio. Empieza pronto muestra un programa por canal.",
-    "size" : 96102480
+    "releaseNotes" : "Copia de seguridad: importar funciona, guarda las claves de los favoritos y se puede abrir el archivo desde Archivos o AirDrop. Arreglado el aviso de actualizacion obligatoria.",
+    "size" : 96113897
   },
-  "sig" : "8S2sYBBYsAcOz4531dZT03SRzJDz10UgpwyWPdS4Y5wHX4UgAY8KrPvU8aFnEFOCHOfABrS8PmzvMJE-JlSmAA"
+  "sig" : "bhfPNh3PB9kZ75SnqgX-2yZFuP-PCejwSS0K4Gy4CALhHp7qw1K0l_y9Q1Yjft7dcNjX9IyL2n5HS4ZERt0lBw"
 }
