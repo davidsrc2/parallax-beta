@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.2-20261020154115\/Parallax-Beta.ipa",
-    "latestBuild" : 20261020154115,
-    "latestVersion" : "1.0.2",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.3-20261020154612\/Parallax-Beta.ipa",
+    "latestBuild" : 20261020154612,
+    "latestVersion" : "1.0.3",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Copia de seguridad: importar funciona, guarda las claves de los favoritos y se puede abrir el archivo desde Archivos o AirDrop. Arreglado el aviso de actualizacion obligatoria.",
-    "size" : 96113897
+    "releaseNotes" : "Ajustes muestra la version nueva y permite descargarla.",
+    "size" : 96118992
   },
-  "sig" : "bhfPNh3PB9kZ75SnqgX-2yZFuP-PCejwSS0K4Gy4CALhHp7qw1K0l_y9Q1Yjft7dcNjX9IyL2n5HS4ZERt0lBw"
+  "sig" : "MeTfyNLJ0I1Ms1gaUT4I9BNeozD2gN8fGwlY1B5TYwpqX44GVBgHLY14uespRx55ceCVoNPud96ksIKMRc1KAg"
 }
