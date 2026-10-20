@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.5-20261020164917\/Parallax-Beta.ipa",
-    "latestBuild" : 20261020164917,
-    "latestVersion" : "1.0.5",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.6-20261020193256\/Parallax-Beta.ipa",
+    "latestBuild" : 20261020193256,
+    "latestVersion" : "1.0.6",
     "minBuild" : 2026102015,
-    "releaseNotes" : "v1.0.5: resolución óptima en HLS\/ISML y corrección DASH con ClearKey",
-    "size" : 96129234
+    "releaseNotes" : "Version 1.0.6: mejoras de reproduccion en ISML, HLS y DASH con ClearKey, menos cierres inesperados y comparacion de versiones corregida.",
+    "size" : 96147780
   },
-  "sig" : "OfHLJ7zZtZYJvs5Whzs4NA1IzjCnYMmMEq9sfcPyq57x-w63ZlKrVHuM_UArxW5whlwAuMPAjfYOtRrYDiK7AQ"
+  "sig" : "U1n0vp7xMjqpAbipq7X_Qm-l6BX-QkmpyHkqtGv7D9Uy6-kEdMPnW8mH1X_RqYQvgHZqDJIH6q69TkRJ5Hu1Cw"
 }
