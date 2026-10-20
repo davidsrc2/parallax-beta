@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.5-20261021000211\/Parallax-Beta.ipa",
-    "latestBuild" : 20261021000211,
-    "latestVersion" : "1.0.9.5",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.6-20261021001000\/Parallax-Beta.ipa",
+    "latestBuild" : 20261021001000,
+    "latestVersion" : "1.0.9.6",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Restaurada la reproducción HLS e ISML de la 1.0.9.3. Corregida la importación de copias de seguridad.",
-    "size" : 96139158
+    "releaseNotes" : "Canales MPD (DASH) cifrados con ClearKey. HLS e ISML sin cambios.",
+    "size" : 96174138
   },
-  "sig" : "cEMApRh0WeTgTYiy4PZocEpwylWDNL1f0z1nxqY95EVdpLJZsa4QlFOtmowKAv8VPh-i91uvgtGkUtMbpD87Bg"
+  "sig" : "q7ECGjdxWPC9oay-Kwr2UIbZzghtgxGI9GVU5jEeULcoKHFR0FWTpGEFjOzR2_T0Ebo9KIePdDvJ5SXBNMTVBA"
 }
