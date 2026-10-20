@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.3-20261020234000\/Parallax-Beta.ipa",
-    "latestBuild" : 20261020234000,
-    "latestVersion" : "1.0.9.3",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.4-20261020235431\/Parallax-Beta.ipa",
+    "latestBuild" : 20261020235431,
+    "latestVersion" : "1.0.9.4",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Corregido el aviso de actualización con la misma versión instalada.",
-    "size" : 96135911
+    "releaseNotes" : "Corregida la reproducción de canales MPD (DASH) cifrados con ClearKey.",
+    "size" : 96137775
   },
-  "sig" : "JVV8IMV98R5gDxPp_ET-Dz7vVF33VWnQgaufJFbLOh3SnYMYrmDQjOoV1kfd0DR-WYI7_jwZnG_TviLN4RZ8DQ"
+  "sig" : "7jmDbNUrx_UvFhurVKgfar05oy2GlqKEjvK8j1VtjA5q3EheeBby567UT9qY_dxvD99doa6dBUe9znA3ZOBxCA"
 }
