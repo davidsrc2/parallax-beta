@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.6-20261021001000\/Parallax-Beta.ipa",
-    "latestBuild" : 20261021001000,
-    "latestVersion" : "1.0.9.6",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.7-20261021001817\/Parallax-Beta.ipa",
+    "latestBuild" : 20261021001817,
+    "latestVersion" : "1.0.9.7",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Canales MPD (DASH) cifrados con ClearKey. HLS e ISML sin cambios.",
-    "size" : 96174138
+    "releaseNotes" : "Canales MPD cifrados: corregida la URL del manifiesto (error de flujo protegido).",
+    "size" : 96176270
   },
-  "sig" : "q7ECGjdxWPC9oay-Kwr2UIbZzghtgxGI9GVU5jEeULcoKHFR0FWTpGEFjOzR2_T0Ebo9KIePdDvJ5SXBNMTVBA"
+  "sig" : "Am_XIn_I5cxg64Y75hxVQyKVA1luXFCAn4Oxjo172aXydyzH4I5qbLUUZG45oFOAg26cP1c_Y8cM1nxuXAe_CQ"
 }
