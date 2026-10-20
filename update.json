@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.7-20261020225908\/Parallax-Beta.ipa",
-    "latestBuild" : 20261020225908,
-    "latestVersion" : "1.0.7",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.8-20261020231030\/Parallax-Beta.ipa",
+    "latestBuild" : 20261020231030,
+    "latestVersion" : "1.0.8",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Versión 1.0.7: Soporte y mejoras en reproducción\/descifrado de flujos DASH, ISML (Smooth Streaming) y HLS SAMPLE-AES con ClearKey. Correcciones de estabilidad.",
-    "size" : 96181191
+    "releaseNotes" : "Restaurada la reproducción de HLS e ISML (vuelta al estado previo a 1.0.7).",
+    "size" : 96147779
   },
-  "sig" : "4YMka2fos_W2C84hZY_yXe5PYF8o-4Y5_FU1owO9aLUY3FZPBmnTh-ksMmJMXg0eUwqNv5X5kYB0vpL1X-jWCw"
+  "sig" : "letS_lopS70WvomdtpvXBIKVFKX_0nl1JpbVYwgLUorbPkyIRTP6KOgwJZFCuCuqf0j5JQG7vVKHN4xqy350DA"
 }
