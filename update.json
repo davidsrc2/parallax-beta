@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.7-20261021001817\/Parallax-Beta.ipa",
-    "latestBuild" : 20261021001817,
-    "latestVersion" : "1.0.9.7",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.8-20261021002156\/Parallax-Beta.ipa",
+    "latestBuild" : 20261021002156,
+    "latestVersion" : "1.0.9.8",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Canales MPD cifrados: corregida la URL del manifiesto (error de flujo protegido).",
-    "size" : 96176270
+    "releaseNotes" : "Selector de calidad en pantalla completa y en canales HLS. Guía TV: desplazamiento solo horizontal o vertical.",
+    "size" : 96177540
   },
-  "sig" : "Am_XIn_I5cxg64Y75hxVQyKVA1luXFCAn4Oxjo172aXydyzH4I5qbLUUZG45oFOAg26cP1c_Y8cM1nxuXAe_CQ"
+  "sig" : "L_KzWP7M5g_tZwuTXp__0FNuvA02wsqdZIhjkzktoAqoDhsJVI_vJkwvCDGEr6V1YYUeJ-_C_msXcVIM9eLOBw"
 }
