@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.20-20261021162211\/Parallax-Beta.ipa",
-    "latestBuild" : 20261021162211,
-    "latestVersion" : "1.0.9.20",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.21-20261021164215\/Parallax-Beta.ipa",
+    "latestBuild" : 20261021164215,
+    "latestVersion" : "1.0.9.21",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Añadido menú lateral de canales Quick Zap en el reproductor (pantalla completa y ventana) para cambiar de canal y ver qué emiten sin salir del vídeo",
-    "size" : 96479126
+    "releaseNotes" : "Eliminado salto circular al último canal al deslizar hacia abajo y mejora de contornos 3D con filtro anti-vibración e inpainting adaptativo",
+    "size" : 96479281
   },
-  "sig" : "HLDuP19AD3-iepDtUIxpCmm1jOvF0JzC0ZgZYl-AhUWS2G-P9C_ftsSpLOiGWqHJUD6Eh0ZYuctyhTTmn2kUCg"
+  "sig" : "iuSyhUhHbfX2BCzLhCjH2S6asQKgunZBbrh7CzOHnVyBHVLfNAwOYmGBfdvQZ3-YKx_nkKvSvKObecBbDYxvAg"
 }
