@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.12-20261021095232\/Parallax-Beta.ipa",
-    "latestBuild" : 20261021095232,
-    "latestVersion" : "1.0.9.12",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.13-20261021125554\/Parallax-Beta.ipa",
+    "latestBuild" : 20261021125554,
+    "latestVersion" : "1.0.9.13",
     "minBuild" : 2026102015,
-    "releaseNotes" : "v1.0.9.12: estabilización de contornos 3D (guía de color sincronizada, filtrado temporal con detección de movimiento y normalización por percentiles)",
-    "size" : 96203466
+    "releaseNotes" : "Mejoras de fluidez en reproducción Xtream (buffer VLC 4s, 60fps Metal), pestañas dedicadas de Películas y Series, ajuste de brillo suave y control de volumen directo para gafas XR.",
+    "size" : 96238627
   },
-  "sig" : "DuatodQlFasRZ_NkfifuZg7OxH3Xv4XcV8as-HX3lUDC_RuY2F6qzKgBYqwuPIXCfvaXNw26fzs_YBpNCi2rDA"
+  "sig" : "_lxG5BWDeGwt0LrGGvdU495MeSvamXTqDAbusKmRwNKdXdYle15RB5sGb0ug--yS5wdGvvNDzwDsqgpVQdNUDQ"
 }
