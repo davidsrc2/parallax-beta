@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.14-20261021132157\/Parallax-Beta.ipa",
-    "latestBuild" : 20261021132157,
-    "latestVersion" : "1.0.9.14",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.15-20261021135321\/Parallax-Beta.ipa",
+    "latestBuild" : 20261021135321,
+    "latestVersion" : "1.0.9.15",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Conmutación instantánea 2D\/3D al primer toque con sincronización de señal DisplayPort para gafas XR, selector dedicado de pistas de subtítulos y audio en películas y series, y soporte para minimizar la reproducción a Picture-in-Picture al salir de la aplicación.",
-    "size" : 96248214
+    "releaseNotes" : "Corrección de scroll en menú de subtítulos (evita reseteo al inicio) y renderizado nativo de subtítulos en móvil para VLC y AVPlayer.",
+    "size" : 96254471
   },
-  "sig" : "JfY0qaa4Jm_EzVbs5AfdDbzhgCqr0d2q_iiHR_7tT57qxeazti86jaM5eD7HbbFkoI1WShYrdIzGAbxnJ5T3AA"
+  "sig" : "uaEaIuqIoZDgkA8CY-VeifD_qcbi0eaANDUTnrDGIgg8shXT26xz46zlbXSOPZJRxjwfDC-pYPm-Z1dRCLZtAg"
 }
