@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.10-20261021090326\/Parallax-Beta.ipa",
-    "latestBuild" : 20261021090326,
-    "latestVersion" : "1.0.9.10",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.11-20261021092437\/Parallax-Beta.ipa",
+    "latestBuild" : 20261021092437,
+    "latestVersion" : "1.0.9.11",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Error detallado en AVPlayer y mejoras de rendimiento",
-    "size" : 96197079
+    "releaseNotes" : "v1.0.9.11: corrección de crash en DRM ClearKey y optimizaciones de rendimiento",
+    "size" : 96199692
   },
-  "sig" : "iyUsfG4DEXTnASrIZ6FMgp2lm1pUmZ2-cJ7Dq5fbgr860gDoXQSxDkfwHRrcdtxFaP3YopmE7jqO2P3RjFrqBg"
+  "sig" : "QPvfhQd5hu8spY9o_miEnHdn6c5vaIaF7kwkH3OHFPutL3ybsZfkLjTLd-EEdqERSC5KFi1nMsmohjDlawovDA"
 }
