@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.25-20261021234839\/Parallax-Beta.ipa",
-    "latestBuild" : 20261021234839,
-    "latestVersion" : "1.0.9.25",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.26-20261022000135\/Parallax-Beta.ipa",
+    "latestBuild" : 20261022000135,
+    "latestVersion" : "1.0.9.26",
     "minBuild" : 2026102015,
-    "releaseNotes" : "v1.0.9.25: Correccion de parones en streams ISML restaurando aceleracion hardware VideoToolbox en VLC, soporte de Catch-up nativo Manifest y expansion de patrones de tiempo.",
-    "size" : 96580158
+    "releaseNotes" : "v1.0.9.26: Catch-up completo en streams HLS con DVR inteligente, Flussonic\/shift y controles de salto +-10s.",
+    "size" : 96596152
   },
-  "sig" : "A_LSNhv2QYsuONX9n1Fbr4UVDE8VGvTIEqGx5lpnw-T6Upby2N6vEB2J5r9BlH-iaKoRJiab-rtjctrN2LnsBQ"
+  "sig" : "3lFaJbk9xwvlcOCgAVDYD1SqVSGE2nWiThhIBQcPXfxaAozc6McFARG-ltbDvKGPYMDZDsb0uqj74eSuyHszAw"
 }
