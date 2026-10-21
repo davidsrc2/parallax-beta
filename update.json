@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.11-20261021092437\/Parallax-Beta.ipa",
-    "latestBuild" : 20261021092437,
-    "latestVersion" : "1.0.9.11",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.12-20261021095232\/Parallax-Beta.ipa",
+    "latestBuild" : 20261021095232,
+    "latestVersion" : "1.0.9.12",
     "minBuild" : 2026102015,
-    "releaseNotes" : "v1.0.9.11: corrección de crash en DRM ClearKey y optimizaciones de rendimiento",
-    "size" : 96199692
+    "releaseNotes" : "v1.0.9.12: estabilización de contornos 3D (guía de color sincronizada, filtrado temporal con detección de movimiento y normalización por percentiles)",
+    "size" : 96203466
   },
-  "sig" : "QPvfhQd5hu8spY9o_miEnHdn6c5vaIaF7kwkH3OHFPutL3ybsZfkLjTLd-EEdqERSC5KFi1nMsmohjDlawovDA"
+  "sig" : "DuatodQlFasRZ_NkfifuZg7OxH3Xv4XcV8as-HX3lUDC_RuY2F6qzKgBYqwuPIXCfvaXNw26fzs_YBpNCi2rDA"
 }
