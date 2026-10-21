@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.9-20261021004005\/Parallax-Beta.ipa",
-    "latestBuild" : 20261021004005,
-    "latestVersion" : "1.0.9.9",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.10-20261021090326\/Parallax-Beta.ipa",
+    "latestBuild" : 20261021090326,
+    "latestVersion" : "1.0.9.10",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Corregido el cierre al cambiar entre canales MPD. Importar copias .parallax vuelve a funcionar.",
-    "size" : 96179911
+    "releaseNotes" : "Error detallado en AVPlayer y mejoras de rendimiento",
+    "size" : 96197079
   },
-  "sig" : "qv1PNDvhW8WRfqKHyqn11ApLXVDktpBgNiYF9SS1ytvhAEA-QnxxER9ExU6w_iaqKbiO121mTJkCHzrk8I1PCQ"
+  "sig" : "iyUsfG4DEXTnASrIZ6FMgp2lm1pUmZ2-cJ7Dq5fbgr860gDoXQSxDkfwHRrcdtxFaP3YopmE7jqO2P3RjFrqBg"
 }
