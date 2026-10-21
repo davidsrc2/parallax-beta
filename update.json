@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.17-20261021143943\/Parallax-Beta.ipa",
-    "latestBuild" : 20261021143943,
-    "latestVersion" : "1.0.9.17",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.18-20261021145552\/Parallax-Beta.ipa",
+    "latestBuild" : 20261021145552,
+    "latestVersion" : "1.0.9.18",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Selector de subtítulos en hoja modal para evitar reinicio de scroll y corrección de pantalla completa en móvil",
-    "size" : 96380826
+    "releaseNotes" : "Corrección completa de subtítulos: renderizado en pantalla en VLC para películas Xtream, scroll fluido y sin reinicios en selector de idiomas, y persistencia de hoja modal",
+    "size" : 96396310
   },
-  "sig" : "rr1eITWwz_aofuhqMoiaI7-TUgqC_is8KI4ey-p-b9fKLZlbYckSUHo-VNiSaao3ar0p5px-qEzS5_aNkDyIDg"
+  "sig" : "KbUW5p5SfDmAcB70rTOffJJDnkrRzi-ZXUw-V61Ql9Me45QbD7-7YWSbBba3fj_yafNVadladtwxlfB4sQJlAg"
 }
