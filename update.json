@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.15-20261021135321\/Parallax-Beta.ipa",
-    "latestBuild" : 20261021135321,
-    "latestVersion" : "1.0.9.15",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.16-20261021143001\/Parallax-Beta.ipa",
+    "latestBuild" : 20261021143001,
+    "latestVersion" : "1.0.9.16",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Corrección de scroll en menú de subtítulos (evita reseteo al inicio) y renderizado nativo de subtítulos en móvil para VLC y AVPlayer.",
-    "size" : 96254471
+    "releaseNotes" : "Ficha de detalle de películas y series con reproducción diferida, unificación de menú de subtítulos en VLC\/PreviewView, hápticos y pausa automática en mando XR",
+    "size" : 96349424
   },
-  "sig" : "uaEaIuqIoZDgkA8CY-VeifD_qcbi0eaANDUTnrDGIgg8shXT26xz46zlbXSOPZJRxjwfDC-pYPm-Z1dRCLZtAg"
+  "sig" : "z7H12nLK7O-NkXI53P7iQuWFVMP0PqPbgUTF6WqMLGewc2p4Jto5cvZDQQqEh_Bij90L95QbLTxv6Ka86ZgwCw"
 }
