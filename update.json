@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.13-20261021125554\/Parallax-Beta.ipa",
-    "latestBuild" : 20261021125554,
-    "latestVersion" : "1.0.9.13",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.14-20261021132157\/Parallax-Beta.ipa",
+    "latestBuild" : 20261021132157,
+    "latestVersion" : "1.0.9.14",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Mejoras de fluidez en reproducción Xtream (buffer VLC 4s, 60fps Metal), pestañas dedicadas de Películas y Series, ajuste de brillo suave y control de volumen directo para gafas XR.",
-    "size" : 96238627
+    "releaseNotes" : "Conmutación instantánea 2D\/3D al primer toque con sincronización de señal DisplayPort para gafas XR, selector dedicado de pistas de subtítulos y audio en películas y series, y soporte para minimizar la reproducción a Picture-in-Picture al salir de la aplicación.",
+    "size" : 96248214
   },
-  "sig" : "_lxG5BWDeGwt0LrGGvdU495MeSvamXTqDAbusKmRwNKdXdYle15RB5sGb0ug--yS5wdGvvNDzwDsqgpVQdNUDQ"
+  "sig" : "JfY0qaa4Jm_EzVbs5AfdDbzhgCqr0d2q_iiHR_7tT57qxeazti86jaM5eD7HbbFkoI1WShYrdIzGAbxnJ5T3AA"
 }
