@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.21-20261021164215\/Parallax-Beta.ipa",
-    "latestBuild" : 20261021164215,
-    "latestVersion" : "1.0.9.21",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.22-20261021165900\/Parallax-Beta.ipa",
+    "latestBuild" : 20261021165900,
+    "latestVersion" : "1.0.9.22",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Eliminado salto circular al último canal al deslizar hacia abajo y mejora de contornos 3D con filtro anti-vibración e inpainting adaptativo",
-    "size" : 96479281
+    "releaseNotes" : "v1.0.9.22: Gestos táctiles estilo Infuse\/VLC (brillo izq, volumen dcha, doble tap +-10s, bloqueo candado), carrusel de canales recientes en Directo, botón directo 'Desde el principio' \/ 'DIRECTO' para catchup, modo pantalla curva Cine\/IMAX para gafas XR y optimizaciones con caché zero-allocation en EPG.",
+    "size" : 96568146
   },
-  "sig" : "iuSyhUhHbfX2BCzLhCjH2S6asQKgunZBbrh7CzOHnVyBHVLfNAwOYmGBfdvQZ3-YKx_nkKvSvKObecBbDYxvAg"
+  "sig" : "8Qqus6OHonIWn0HYOzrnORCgDDXP4c12qEqDOYWXaTVUsSE4ADYAi3YElzjyenUy7LBdDSRKG1HkD5azHwZ6AQ"
 }
