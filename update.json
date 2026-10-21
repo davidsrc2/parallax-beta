@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.26-20261022000135\/Parallax-Beta.ipa",
-    "latestBuild" : 20261022000135,
-    "latestVersion" : "1.0.9.26",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.27-20261022001330\/Parallax-Beta.ipa",
+    "latestBuild" : 20261022001330,
+    "latestVersion" : "1.0.9.27",
     "minBuild" : 2026102015,
-    "releaseNotes" : "v1.0.9.26: Catch-up completo en streams HLS con DVR inteligente, Flussonic\/shift y controles de salto +-10s.",
-    "size" : 96596152
+    "releaseNotes" : "v1.0.9.27: Correccion de parones al abrir canales ISML y eliminacion del numero 50878 en la barra de tiempo.",
+    "size" : 96597219
   },
-  "sig" : "3lFaJbk9xwvlcOCgAVDYD1SqVSGE2nWiThhIBQcPXfxaAozc6McFARG-ltbDvKGPYMDZDsb0uqj74eSuyHszAw"
+  "sig" : "FtOzg42El5Ob9D4uB3UwWe48_OLWcsIu_qMsgiVxU3s-EQrlyZM2_Xoo-x8xS5cqGIpfMXv3PSUdk3EpejU2Cw"
 }
