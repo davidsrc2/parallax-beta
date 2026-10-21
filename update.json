@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.18-20261021145552\/Parallax-Beta.ipa",
-    "latestBuild" : 20261021145552,
-    "latestVersion" : "1.0.9.18",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.19-20261021152210\/Parallax-Beta.ipa",
+    "latestBuild" : 20261021152210,
+    "latestVersion" : "1.0.9.19",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Corrección completa de subtítulos: renderizado en pantalla en VLC para películas Xtream, scroll fluido y sin reinicios en selector de idiomas, y persistencia de hoja modal",
-    "size" : 96396310
+    "releaseNotes" : "Renderizado de subtítulos en pantalla: chroma RV32 compatible con blend.c, desactivación de VideoToolbox en VOD para permitir blending SPU por CPU",
+    "size" : 96396334
   },
-  "sig" : "KbUW5p5SfDmAcB70rTOffJJDnkrRzi-ZXUw-V61Ql9Me45QbD7-7YWSbBba3fj_yafNVadladtwxlfB4sQJlAg"
+  "sig" : "q1ifTejR1W8DMrPHBrqbmjV-DSEbdXaOHIno3ncuKEsDqnvkSAZzC7W9ZQLamOER-GYswgMG8A_TIJSOAUcmCg"
 }
