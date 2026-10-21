@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.23-20261021171842\/Parallax-Beta.ipa",
-    "latestBuild" : 20261021171842,
-    "latestVersion" : "1.0.9.23",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.24-20261021233002\/Parallax-Beta.ipa",
+    "latestBuild" : 20261021233002,
+    "latestVersion" : "1.0.9.24",
     "minBuild" : 2026102015,
-    "releaseNotes" : "v1.0.9.23: Barra superior del reproductor responsive con menú desplegable (···) para opciones secundarias (audio, info, PiP, mando), botones compactos e interfaz limpia y sin saturación en iPhone.",
-    "size" : 96568266
+    "releaseNotes" : "v1.0.9.24: Corrección de Catch-up en canales .isml (Smooth Streaming) transformando a HLS, sanitización con URLComponents y validación de URL en AVPlayer.",
+    "size" : 96578544
   },
-  "sig" : "0D1uFBjaMWpzf4KV8m72sMykskWSDH1h5Z0cP8vOakZ6Y7_VUukrzgOV06BlM7gf6zhCxxVFJJ-gc2r6jn5zDg"
+  "sig" : "qqZq7ft3lAc1qZqeLwndq0kfAJIcCE1i8RTtUi9haGeKj01i1PrtOgNeHlu0EhqndkmIJ4zb62JX-THAzUeCCA"
 }
