@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.38-20261022132259\/Parallax-Beta.ipa",
-    "latestBuild" : 20261022132259,
-    "latestVersion" : "1.0.9.38",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.39-20261022145816\/Parallax-Beta.ipa",
+    "latestBuild" : 20261022145816,
+    "latestVersion" : "1.0.9.39",
     "minBuild" : 20261022132259,
-    "releaseNotes" : "Alinear rebobinado en guía EPG con el reproductor y corregir media playlists en proxy local",
-    "size" : 96628647
+    "releaseNotes" : "Corregir inicio de catch-up HLS en canales no sintonizados desde la guía EPG",
+    "size" : 96630774
   },
-  "sig" : "2-Bwp9A-WR6n3eAoI_yuyR7JJCrllL0MEK1_R3KYqLlUS5RiNUWJhZmenD3-BHyq15tEBlTGYKYwxpIpI4p-Dw"
+  "sig" : "FNX9_2Kcslrf4q3Ry-RkPwjEUExqjVkqoh4IDse4UiNtC2Giy4o0qLt0dG5mjE7BO3BsEg3lPtuqXdutqQSIBQ"
 }
