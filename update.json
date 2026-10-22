@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.36-20261022120209\/Parallax-Beta.ipa",
-    "latestBuild" : 20261022120209,
-    "latestVersion" : "1.0.9.36",
-    "minBuild" : 2026102015,
-    "releaseNotes" : "Corregir descifrado y resolución de segmentos en Catch-up HLS y Desde el inicio",
-    "size" : 96627459
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.37-20261022124552\/Parallax-Beta.ipa",
+    "latestBuild" : 20261022124552,
+    "latestVersion" : "1.0.9.37",
+    "minBuild" : 20261022124552,
+    "releaseNotes" : "Corrección de reproducción de emisiones pasadas y desde el inicio en la guía EPG",
+    "size" : 96627994
   },
-  "sig" : "KDFHl5gPMVZRd1hcyrGabADIdv-9fm_YLZ0ZQAnVfhdHzDjyyqgoH2ytvh1FK0gOdIdPjarjH9HpE9vwC4HHDw"
+  "sig" : "OKGRI04rFWpFCRoFDswCLgovZGgq9t9JzThmB-xo3hLYdQbw7AXwAf8hThj1seROAqbWSY_FQ993YPlRrCnUAg"
 }
