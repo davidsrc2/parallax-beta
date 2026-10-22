@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.45-20261022210742\/Parallax-Beta.ipa",
-    "latestBuild" : 20261022210742,
-    "latestVersion" : "1.0.9.45",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.46-20261022214721\/Parallax-Beta.ipa",
+    "latestBuild" : 20261022214721,
+    "latestVersion" : "1.0.9.46",
     "minBuild" : 20261022132259,
-    "releaseNotes" : "Eliminar EXT-X-MEDIA-SEQUENCE y EXT-X-PROGRAM-DATE-TIME en Catch-up HLS para reproducir VOD absoluto desde 0:00",
-    "size" : 96650067
+    "releaseNotes" : "Fix HLS catch-up full VOD timeline and avoid DVR window limit (1.0.9.46)",
+    "size" : 96654374
   },
-  "sig" : "m5N0KkPgMlxOqzFZ_qwSzrJ92tq6XZ4OY-iikJ_GkBaoOiIsYJAJ-mGK8ZKqQZm2vwCrMFfFuOtFXdB7lkNOAA"
+  "sig" : "yMieLYI-zU05Cedq5rXPLm11P6GBv3NTrC3t6ulbBkGqD_zy3o8AuG4WRTbiWbFGvluZZZ4eANFBWX72bi7aAQ"
 }
