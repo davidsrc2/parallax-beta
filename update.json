@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.28-20261022083156\/Parallax-Beta.ipa",
-    "latestBuild" : 20261022083156,
-    "latestVersion" : "1.0.9.28",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.29-20261022084934\/Parallax-Beta.ipa",
+    "latestBuild" : 20261022084934,
+    "latestVersion" : "1.0.9.29",
     "minBuild" : 2026102015,
-    "releaseNotes" : "v1.0.9.28: Corrección de URLs y cabeceras de Catch-up\/Time-shift para HLS y canales ISML nativos.",
-    "size" : 96601618
+    "releaseNotes" : "v1.0.9.29: Activacion del movedor DVR y seek para canales ISML y soporte de catch-up CUTV.",
+    "size" : 96601523
   },
-  "sig" : "npNmtboBB8JbWeWC3zHAQ8rKmQw3LacWSz7gj3Lmlw3KWx__NETLRUhZlg4Ze-tqJ79mC9rMnOeNauMe4kdKCQ"
+  "sig" : "0NQ81EBZBiobYMPpAxTyqeczK6zCMScuMEQNG-NAs1MiVVXW4P8_Kw5YYfZ8xvP-BemanhegmbK3PvmUqxPlDQ"
 }
