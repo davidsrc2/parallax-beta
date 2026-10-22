@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.30-20261022092131\/Parallax-Beta.ipa",
-    "latestBuild" : 20261022092131,
-    "latestVersion" : "1.0.9.30",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.31-20261022101448\/Parallax-Beta.ipa",
+    "latestBuild" : 20261022101448,
+    "latestVersion" : "1.0.9.31",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Corrección de selección de programas pasados en la Guía EPG para canales HLS sin error 404, y estabilización del rebobinado\/time-shift en canales ISML sin reseteo al directo.",
-    "size" : 96603705
+    "releaseNotes" : "Corrección de error -1004 al reproducir desde el inicio en la Guía sin canal previo y mejoras de proxy",
+    "size" : 96603242
   },
-  "sig" : "PT7b8-BmMex4b5mK1Y7ljEl0T5VbwHhMloc9t_ui2w3rDwcNOFfulsd_LMtZHnH5VibCWzwu9_DILGJZQIirAQ"
+  "sig" : "NHairA9aBbbhpmmVXHAfFLujGsDBGNFff57qkV9u65qyKEvv__7lDh6nLRwM5u_mtP4rWE4zxmrmsytEH2q4Cw"
 }
