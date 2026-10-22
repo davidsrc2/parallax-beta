@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.37-20261022124552\/Parallax-Beta.ipa",
-    "latestBuild" : 20261022124552,
-    "latestVersion" : "1.0.9.37",
-    "minBuild" : 20261022124552,
-    "releaseNotes" : "Corrección de reproducción de emisiones pasadas y desde el inicio en la guía EPG",
-    "size" : 96627994
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.38-20261022132259\/Parallax-Beta.ipa",
+    "latestBuild" : 20261022132259,
+    "latestVersion" : "1.0.9.38",
+    "minBuild" : 20261022132259,
+    "releaseNotes" : "Alinear rebobinado en guía EPG con el reproductor y corregir media playlists en proxy local",
+    "size" : 96628647
   },
-  "sig" : "OKGRI04rFWpFCRoFDswCLgovZGgq9t9JzThmB-xo3hLYdQbw7AXwAf8hThj1seROAqbWSY_FQ993YPlRrCnUAg"
+  "sig" : "2-Bwp9A-WR6n3eAoI_yuyR7JJCrllL0MEK1_R3KYqLlUS5RiNUWJhZmenD3-BHyq15tEBlTGYKYwxpIpI4p-Dw"
 }
