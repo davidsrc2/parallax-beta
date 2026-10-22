@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.47-20261022224626\/Parallax-Beta.ipa",
-    "latestBuild" : 20261022224626,
-    "latestVersion" : "1.0.9.47",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.48-20261022231101\/Parallax-Beta.ipa",
+    "latestBuild" : 20261022231101,
+    "latestVersion" : "1.0.9.48",
     "minBuild" : 20261022132259,
-    "releaseNotes" : "Soporte completo de Catch-up para IIS Smooth Streaming (ISML \/ ClearKey) con VLC",
-    "size" : 96657508
+    "releaseNotes" : "Fix salto a directo al rebobinar en DVR y catch-up",
+    "size" : 96658763
   },
-  "sig" : "RT8LKjVsTXXiOzoCuTjwiijoJ8XtRLXD3Yacy09SzNG3ym7t_rKEnCZSqCEX-3A-O9RA3YAE3aM5mjG21Hw9Bg"
+  "sig" : "RbxIqVLXHTIU03bhEtGoYWZlzZc34Yzov-bAlGXESA3YLWU-PbjYSUKIBIYKP5pQaX9ao5jnjxksl3mQA7rKCw"
 }
