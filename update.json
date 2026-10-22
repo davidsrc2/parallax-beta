@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.33-20261022105826\/Parallax-Beta.ipa",
-    "latestBuild" : 20261022105826,
-    "latestVersion" : "1.0.9.33",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.34-20261022111511\/Parallax-Beta.ipa",
+    "latestBuild" : 20261022111511,
+    "latestVersion" : "1.0.9.34",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Corregir activación de Catch-up y rebobinado de 10s en canales ISML (v1.0.9.33)",
-    "size" : 96625721
+    "releaseNotes" : "Corregir reproducción de programa anterior en HLS desde la guía evitando URLs 404 (v1.0.9.34)",
+    "size" : 96626879
   },
-  "sig" : "wvpSDHr_jDBuOmzg4itgdt0nZPsnZc-7z9b7bfHNdlAw-yGjRZC-_4xncLVK9t1TZHijP3PRWizGSP-wuDFlCw"
+  "sig" : "ph3R3pExygPQ6Bc6HoR8PWcF8E84f0SrMroXEtOabSwtAQ0LJPwZ1m2dCg7r7WJ1GxEzCqZkKB85DU_EvUp4Aw"
 }
