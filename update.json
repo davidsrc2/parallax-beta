@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.27-20261022001330\/Parallax-Beta.ipa",
-    "latestBuild" : 20261022001330,
-    "latestVersion" : "1.0.9.27",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.28-20261022083156\/Parallax-Beta.ipa",
+    "latestBuild" : 20261022083156,
+    "latestVersion" : "1.0.9.28",
     "minBuild" : 2026102015,
-    "releaseNotes" : "v1.0.9.27: Correccion de parones al abrir canales ISML y eliminacion del numero 50878 en la barra de tiempo.",
-    "size" : 96597219
+    "releaseNotes" : "v1.0.9.28: Corrección de URLs y cabeceras de Catch-up\/Time-shift para HLS y canales ISML nativos.",
+    "size" : 96601618
   },
-  "sig" : "FtOzg42El5Ob9D4uB3UwWe48_OLWcsIu_qMsgiVxU3s-EQrlyZM2_Xoo-x8xS5cqGIpfMXv3PSUdk3EpejU2Cw"
+  "sig" : "npNmtboBB8JbWeWC3zHAQ8rKmQw3LacWSz7gj3Lmlw3KWx__NETLRUhZlg4Ze-tqJ79mC9rMnOeNauMe4kdKCQ"
 }
