@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.40-20261022153806\/Parallax-Beta.ipa",
-    "latestBuild" : 20261022153806,
-    "latestVersion" : "1.0.9.40",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.41-20261022160625\/Parallax-Beta.ipa",
+    "latestBuild" : 20261022160625,
+    "latestVersion" : "1.0.9.41",
     "minBuild" : 20261022132259,
-    "releaseNotes" : "Fix catch-up when selecting another channel or past programme from Guide",
-    "size" : 96629262
+    "releaseNotes" : "Auto-tune channel first and seek backwards via live DVR window on start",
+    "size" : 96629391
   },
-  "sig" : "_sW8N01ikO6E_DBBeIAWcP8mxHp7BUImfxV9XYZ9-Bh0qpQxYzo4XHWpAUOQ04S8I3KJNfTNcHN03GmoK3SVDQ"
+  "sig" : "9peJ9X7j-Lv9qBPV-HdzlTDuoFXoiXCHwElHvCB9F7VYxz769UXoncDpt_rCDSJa46iksS42hqY1JIE9MDGuDQ"
 }
