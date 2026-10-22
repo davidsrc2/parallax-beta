@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.34-20261022111511\/Parallax-Beta.ipa",
-    "latestBuild" : 20261022111511,
-    "latestVersion" : "1.0.9.34",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.35-20261022114006\/Parallax-Beta.ipa",
+    "latestBuild" : 20261022114006,
+    "latestVersion" : "1.0.9.35",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Corregir reproducción de programa anterior en HLS desde la guía evitando URLs 404 (v1.0.9.34)",
-    "size" : 96626879
+    "releaseNotes" : "Corregir Error -1100 en Catch-up HLS desde la guía EPG",
+    "size" : 96627890
   },
-  "sig" : "ph3R3pExygPQ6Bc6HoR8PWcF8E84f0SrMroXEtOabSwtAQ0LJPwZ1m2dCg7r7WJ1GxEzCqZkKB85DU_EvUp4Aw"
+  "sig" : "S7LmIGE-IgvPfptbhTFE_XHIwsEtu9SV4opazxtozBVF_jESATVK9fuKpr_6jb9E5xeBQ3fysho8o41fV0SkBA"
 }
