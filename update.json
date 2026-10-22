@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.35-20261022114006\/Parallax-Beta.ipa",
-    "latestBuild" : 20261022114006,
-    "latestVersion" : "1.0.9.35",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.36-20261022120209\/Parallax-Beta.ipa",
+    "latestBuild" : 20261022120209,
+    "latestVersion" : "1.0.9.36",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Corregir Error -1100 en Catch-up HLS desde la guía EPG",
-    "size" : 96627890
+    "releaseNotes" : "Corregir descifrado y resolución de segmentos en Catch-up HLS y Desde el inicio",
+    "size" : 96627459
   },
-  "sig" : "S7LmIGE-IgvPfptbhTFE_XHIwsEtu9SV4opazxtozBVF_jESATVK9fuKpr_6jb9E5xeBQ3fysho8o41fV0SkBA"
+  "sig" : "KDFHl5gPMVZRd1hcyrGabADIdv-9fm_YLZ0ZQAnVfhdHzDjyyqgoH2ytvh1FK0gOdIdPjarjH9HpE9vwC4HHDw"
 }
