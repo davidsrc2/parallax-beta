@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.31-20261022101448\/Parallax-Beta.ipa",
-    "latestBuild" : 20261022101448,
-    "latestVersion" : "1.0.9.31",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.32-20261022103450\/Parallax-Beta.ipa",
+    "latestBuild" : 20261022103450,
+    "latestVersion" : "1.0.9.32",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Corrección de error -1004 al reproducir desde el inicio en la Guía sin canal previo y mejoras de proxy",
-    "size" : 96603242
+    "releaseNotes" : "Mostrar título de programa en reproductor para emisiones en diferido y catch-up (v1.0.9.32)",
+    "size" : 96619752
   },
-  "sig" : "NHairA9aBbbhpmmVXHAfFLujGsDBGNFff57qkV9u65qyKEvv__7lDh6nLRwM5u_mtP4rWE4zxmrmsytEH2q4Cw"
+  "sig" : "HfM3cKYSEikFxQmV0iXMozQQcrxATC_4voyt3WhKCwfMBxRPwM4CRPGfPVObDxUNrby7ZsVSMfkrqJCaoZLHAA"
 }
