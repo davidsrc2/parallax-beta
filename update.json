@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.39-20261022145816\/Parallax-Beta.ipa",
-    "latestBuild" : 20261022145816,
-    "latestVersion" : "1.0.9.39",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.40-20261022153806\/Parallax-Beta.ipa",
+    "latestBuild" : 20261022153806,
+    "latestVersion" : "1.0.9.40",
     "minBuild" : 20261022132259,
-    "releaseNotes" : "Corregir inicio de catch-up HLS en canales no sintonizados desde la guía EPG",
-    "size" : 96630774
+    "releaseNotes" : "Fix catch-up when selecting another channel or past programme from Guide",
+    "size" : 96629262
   },
-  "sig" : "FNX9_2Kcslrf4q3Ry-RkPwjEUExqjVkqoh4IDse4UiNtC2Giy4o0qLt0dG5mjE7BO3BsEg3lPtuqXdutqQSIBQ"
+  "sig" : "_sW8N01ikO6E_DBBeIAWcP8mxHp7BUImfxV9XYZ9-Bh0qpQxYzo4XHWpAUOQ04S8I3KJNfTNcHN03GmoK3SVDQ"
 }
