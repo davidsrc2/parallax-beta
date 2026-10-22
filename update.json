@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.41-20261022160625\/Parallax-Beta.ipa",
-    "latestBuild" : 20261022160625,
-    "latestVersion" : "1.0.9.41",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.42-20261022162038\/Parallax-Beta.ipa",
+    "latestBuild" : 20261022162038,
+    "latestVersion" : "1.0.9.42",
     "minBuild" : 20261022132259,
-    "releaseNotes" : "Auto-tune channel first and seek backwards via live DVR window on start",
-    "size" : 96629391
+    "releaseNotes" : "Show on-screen diagnostic error and watchdog overlay on black screen",
+    "size" : 96650227
   },
-  "sig" : "9peJ9X7j-Lv9qBPV-HdzlTDuoFXoiXCHwElHvCB9F7VYxz769UXoncDpt_rCDSJa46iksS42hqY1JIE9MDGuDQ"
+  "sig" : "8fPVOR0tw-r4WXMZ-w5-t3VbC84my2x-EniUqzbXHBN_A_f2Kes5KeNHblhy4erxxaWgwJmpKwiM_TFYRsXcCg"
 }
