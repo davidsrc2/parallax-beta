@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.32-20261022103450\/Parallax-Beta.ipa",
-    "latestBuild" : 20261022103450,
-    "latestVersion" : "1.0.9.32",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.33-20261022105826\/Parallax-Beta.ipa",
+    "latestBuild" : 20261022105826,
+    "latestVersion" : "1.0.9.33",
     "minBuild" : 2026102015,
-    "releaseNotes" : "Mostrar título de programa en reproductor para emisiones en diferido y catch-up (v1.0.9.32)",
-    "size" : 96619752
+    "releaseNotes" : "Corregir activación de Catch-up y rebobinado de 10s en canales ISML (v1.0.9.33)",
+    "size" : 96625721
   },
-  "sig" : "HfM3cKYSEikFxQmV0iXMozQQcrxATC_4voyt3WhKCwfMBxRPwM4CRPGfPVObDxUNrby7ZsVSMfkrqJCaoZLHAA"
+  "sig" : "wvpSDHr_jDBuOmzg4itgdt0nZPsnZc-7z9b7bfHNdlAw-yGjRZC-_4xncLVK9t1TZHijP3PRWizGSP-wuDFlCw"
 }
