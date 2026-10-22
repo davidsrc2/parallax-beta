@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.42-20261022162038\/Parallax-Beta.ipa",
-    "latestBuild" : 20261022162038,
-    "latestVersion" : "1.0.9.42",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.43-20261022164757\/Parallax-Beta.ipa",
+    "latestBuild" : 20261022164757,
+    "latestVersion" : "1.0.9.43",
     "minBuild" : 20261022132259,
-    "releaseNotes" : "Show on-screen diagnostic error and watchdog overlay on black screen",
-    "size" : 96650227
+    "releaseNotes" : "Corregir reproducción catch-up de HLS desde la guía conservando claves DRM",
+    "size" : 96649630
   },
-  "sig" : "8fPVOR0tw-r4WXMZ-w5-t3VbC84my2x-EniUqzbXHBN_A_f2Kes5KeNHblhy4erxxaWgwJmpKwiM_TFYRsXcCg"
+  "sig" : "MTvQi5roa8t-1ostWYpOumFtp9qS3h2Aels1HroyirgRyIG2j6qk4igBqWgwXO_HTAXDueYKVBKO5inV3tETAA"
 }
