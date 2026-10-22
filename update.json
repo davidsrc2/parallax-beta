@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.46-20261022214721\/Parallax-Beta.ipa",
-    "latestBuild" : 20261022214721,
-    "latestVersion" : "1.0.9.46",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.47-20261022224626\/Parallax-Beta.ipa",
+    "latestBuild" : 20261022224626,
+    "latestVersion" : "1.0.9.47",
     "minBuild" : 20261022132259,
-    "releaseNotes" : "Fix HLS catch-up full VOD timeline and avoid DVR window limit (1.0.9.46)",
-    "size" : 96654374
+    "releaseNotes" : "Soporte completo de Catch-up para IIS Smooth Streaming (ISML \/ ClearKey) con VLC",
+    "size" : 96657508
   },
-  "sig" : "yMieLYI-zU05Cedq5rXPLm11P6GBv3NTrC3t6ulbBkGqD_zy3o8AuG4WRTbiWbFGvluZZZ4eANFBWX72bi7aAQ"
+  "sig" : "RT8LKjVsTXXiOzoCuTjwiijoJ8XtRLXD3Yacy09SzNG3ym7t_rKEnCZSqCEX-3A-O9RA3YAE3aM5mjG21Hw9Bg"
 }
