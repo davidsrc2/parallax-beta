@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.49-20261023000434\/Parallax-Beta.ipa",
-    "latestBuild" : 20261023000434,
-    "latestVersion" : "1.0.9.49",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.50-20261023110115\/Parallax-Beta.ipa",
+    "latestBuild" : 20261023110115,
+    "latestVersion" : "1.0.9.50",
     "minBuild" : 20261022132259,
-    "releaseNotes" : "Fix Movistar ISML catch-up and eliminate initial playback stutter (1.0.9.49)",
-    "size" : 96661264
+    "releaseNotes" : "Normalizar timestamps de fragmentos Smooth Streaming (ISML) en VOD\/Catch-up para reproducción continua y rebobinado fluido (1.0.9.50)",
+    "size" : 96664426
   },
-  "sig" : "O0rogvfb8tDOF2p8XO08OEb_41WattojRFhy33jxWk23SYIDRXaaxGWbBt4GOdvwH1JGeb5AQcxGf9TLcaZkDw"
+  "sig" : "nd6i4owpmYWplP-XrfH104jxhu01jpQv8YoQBVjM-YzZiMyC_knI454C2YkeBCIjb8oyHiMwTj9Hmth_oZhPAQ"
 }
