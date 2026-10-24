@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.50-20261023110115\/Parallax-Beta.ipa",
-    "latestBuild" : 20261023110115,
-    "latestVersion" : "1.0.9.50",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.51-20261024121258\/Parallax-Beta.ipa",
+    "latestBuild" : 20261024121258,
+    "latestVersion" : "1.0.9.51",
     "minBuild" : 20261022132259,
-    "releaseNotes" : "Normalizar timestamps de fragmentos Smooth Streaming (ISML) en VOD\/Catch-up para reproducción continua y rebobinado fluido (1.0.9.50)",
-    "size" : 96664426
+    "releaseNotes" : "Catch-up ISML: DIRECTO, Inicio, ±10 s y barra funcionan con programas en emisión (ya no se congela). Canales DASH multi-periodo (Amazon) reproducen correctamente.",
+    "size" : 96653749
   },
-  "sig" : "nd6i4owpmYWplP-XrfH104jxhu01jpQv8YoQBVjM-YzZiMyC_knI454C2YkeBCIjb8oyHiMwTj9Hmth_oZhPAQ"
+  "sig" : "hF1gKj7BoWaOCWaciClBTtqyx9vuEmewGyMlupsBOxpzqDjJcIkHI8kQ-Zl0fQYHOgcGOJSvZ99bPzL7nCQtAg"
 }
