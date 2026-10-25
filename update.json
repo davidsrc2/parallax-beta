@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.51-20261024121258\/Parallax-Beta.ipa",
-    "latestBuild" : 20261024121258,
-    "latestVersion" : "1.0.9.51",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.9.52-20261025103940\/Parallax-Beta.ipa",
+    "latestBuild" : 20261025103940,
+    "latestVersion" : "1.0.9.52",
     "minBuild" : 20261022132259,
-    "releaseNotes" : "Catch-up ISML: DIRECTO, Inicio, ±10 s y barra funcionan con programas en emisión (ya no se congela). Canales DASH multi-periodo (Amazon) reproducen correctamente.",
-    "size" : 96653749
+    "releaseNotes" : "Catch-up ISML: arreglada la barra y los botones de ±10 s en pantalla completa (la barra se quedaba congelada si los controles se ocultaban durante el arrastre).",
+    "size" : 96654955
   },
-  "sig" : "hF1gKj7BoWaOCWaciClBTtqyx9vuEmewGyMlupsBOxpzqDjJcIkHI8kQ-Zl0fQYHOgcGOJSvZ99bPzL7nCQtAg"
+  "sig" : "IbUQQwv7A6XUE1WOTubXJdzIODuCqdVxuODm_Usd1twIoS-gyNYlPJHR4aFTF1eQaQaaNykpk-gzStQahIF6DA"
 }
