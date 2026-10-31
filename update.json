@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.10.0-20261031100804\/Parallax-Beta.ipa",
-    "latestBuild" : 20261031100804,
-    "latestVersion" : "1.0.10.0",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.10.1-20261031143724\/Parallax-Beta.ipa",
+    "latestBuild" : 20261031143724,
+    "latestVersion" : "1.0.10.1",
     "minBuild" : 20261022132259,
-    "releaseNotes" : "1.0.10: velocidad de reproducción, subtítulos externos y OpenSubtitles, saltar intro y siguiente episodio, multivista de 2 o 4 canales, nuevo catálogo de películas y series, Jellyfin mejorado con progreso sincronizado, descargas offline y perfiles de usuario con PIN y perfil infantil.",
-    "size" : 97605476
+    "releaseNotes" : "1.0.10.1: la multivista usa automáticamente la versión sin DRM de un canal si la tienes en otra lista y explica los canales protegidos; nuevo acceso a los perfiles desde el avatar de Inicio.",
+    "size" : 97681856
   },
-  "sig" : "fsAlPWJyLAzm8Nc_3vd4Irrd-P3PhfPLHPaNYsCeSChQZiemGnOtdD-fHUGuRRAMcymFwSotqGl_8W2OffohAw"
+  "sig" : "cf8AH-mQ9K-27wDzNKl8TcGb6_c-FufRHgZuy5d3nRMV2p3RCr3YoqytkzKvcfASptrcDPV-_UDHRWkv_KfUBg"
 }
