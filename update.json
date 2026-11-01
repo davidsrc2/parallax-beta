@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.10.1-20261031143724\/Parallax-Beta.ipa",
-    "latestBuild" : 20261031143724,
-    "latestVersion" : "1.0.10.1",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.12.0-20261101100550\/Parallax-Beta.ipa",
+    "latestBuild" : 20261101100550,
+    "latestVersion" : "1.0.12.0",
     "minBuild" : 20261022132259,
-    "releaseNotes" : "1.0.10.1: la multivista usa automáticamente la versión sin DRM de un canal si la tienes en otra lista y explica los canales protegidos; nuevo acceso a los perfiles desde el avatar de Inicio.",
-    "size" : 97681856
+    "releaseNotes" : "1.0.12: temporizador de apagado, Apple TV con peliculas y series, seguir series con aviso de episodios nuevos, Siri y Atajos, continuar en la Apple TV, sincronia de audio y realce de dialogos, Ver mas tarde, guia con generos, buscador y avisos, fichas TMDB e informe de diagnostico.",
+    "size" : 98155174
   },
-  "sig" : "cf8AH-mQ9K-27wDzNKl8TcGb6_c-FufRHgZuy5d3nRMV2p3RCr3YoqytkzKvcfASptrcDPV-_UDHRWkv_KfUBg"
+  "sig" : "t_9REpWiWU_VzagTju2bNZYYdgnEGvuoT6uiJv7HwxaQKN3ZvPfxJdnUPhn6NomFq6bTxhPgIhyD5732AvLuAg"
 }
