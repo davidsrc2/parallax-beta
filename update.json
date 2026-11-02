@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.12.0-20261101100550\/Parallax-Beta.ipa",
-    "latestBuild" : 20261101100550,
-    "latestVersion" : "1.0.12.0",
-    "minBuild" : 20261022132259,
-    "releaseNotes" : "1.0.12: temporizador de apagado, Apple TV con peliculas y series, seguir series con aviso de episodios nuevos, Siri y Atajos, continuar en la Apple TV, sincronia de audio y realce de dialogos, Ver mas tarde, guia con generos, buscador y avisos, fichas TMDB e informe de diagnostico.",
-    "size" : 98155174
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.13.0-20261102100433\/Parallax-Beta.ipa",
+    "latestBuild" : 20261102100433,
+    "latestVersion" : "1.0.13.0",
+    "minBuild" : 20261102100433,
+    "releaseNotes" : "1.0.13.0: arreglo del cierre al reproducir (Handoff), busqueda de peliculas y series mucho mas rapida, y en Mac cerrar el canal, ocultar la lista y cambio automatico de fuente",
+    "size" : 98179924
   },
-  "sig" : "t_9REpWiWU_VzagTju2bNZYYdgnEGvuoT6uiJv7HwxaQKN3ZvPfxJdnUPhn6NomFq6bTxhPgIhyD5732AvLuAg"
+  "sig" : "l_4omlgKhZiOBNVC_l3apc4BXQUlKH4Dl2y_AqebadGPJIPAamw4ipcnHOzFEje6lma8Urs2JIZp0NJ_4zTpAA"
 }
