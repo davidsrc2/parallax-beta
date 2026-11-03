@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.17.0-20261103221723\/Parallax-Beta.ipa",
-    "latestBuild" : 20261103221723,
-    "latestVersion" : "1.0.17.0",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.18.0-20261103225642\/Parallax-Beta.ipa",
+    "latestBuild" : 20261103225642,
+    "latestVersion" : "1.0.18.0",
     "minBuild" : 20261102100433,
-    "releaseNotes" : "Addons y debrid: si una fuente falla pasa sola a la siguiente; subtítulos en español cuando la fuente no está en castellano; siguiente episodio automático en series; Seguir viendo de addons (y Seguir desde) en todas las apps.",
-    "size" : 98651824
+    "releaseNotes" : "Ajustes de addons: clave del debrid una vez e instala Linkañol, Torrentio, Peerflix y Comet en un toque. Marcador de fútbol con avisos de gol en directo. Vídeo flotante al salir de la app con una peli. Sin duración del búfer en directo.",
+    "size" : 98727980
   },
-  "sig" : "1Bc2j_R18pBvWqB-JkpVXtFsheZsPTDHwpBVg3bbjAgdk7VvOPqW2t5ycEf8eYv1Z9x-mkGouQC1sNGJJhssAQ"
+  "sig" : "8rfUOX7M00wjirWpEEQI20N86aMUCwIDVvXhOG_KNESP9uFrBHsWuWW5q3PzGemZeJec6bsQV_sA2xtLf_oIBw"
 }
