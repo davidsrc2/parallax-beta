@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.15.0-20261103183558\/Parallax-Beta.ipa",
-    "latestBuild" : 20261103183558,
-    "latestVersion" : "1.0.15.0",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.16.0-20261103194439\/Parallax-Beta.ipa",
+    "latestBuild" : 20261103194439,
+    "latestVersion" : "1.0.16.0",
     "minBuild" : 20261102100433,
-    "releaseNotes" : "Películas y Series incluyen ahora los addons de Stremio con tu debrid (Linkañol, Torrentio, Peerflix): tendencias, búsqueda y fuentes con «Ver ahora». Instálalos desde el botón de addons en Películas.",
-    "size" : 98595699
+    "releaseNotes" : "Pelis: avance, retroceso y barra de tiempo en el iPhone para debrid, biblioteca y Seguir viendo; reproductor de pelis rediseñado; Inicio ya no muestra pelis como directo; Seguir viendo de addons en Android.",
+    "size" : 98609886
   },
-  "sig" : "av_Zba-4DUVbmqBJ1DngR4WQqJa6ydm9oDugwvXletyRjsXZdvwJ72vksodn7NHk1-57ZC3EGf8iGBXt187OAw"
+  "sig" : "PeeMPbiw0wVAjn5hGawH5-7SGQrcBpqI9S66LQhCzZRCqaOFvODTmkm6U5qp00W5DL8gOteHlYXx8m7Di2APDw"
 }
