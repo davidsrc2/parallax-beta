@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.14.0-20261102122827\/Parallax-Beta.ipa",
-    "latestBuild" : 20261102122827,
-    "latestVersion" : "1.0.14.0",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.15.0-20261103183558\/Parallax-Beta.ipa",
+    "latestBuild" : 20261103183558,
+    "latestVersion" : "1.0.15.0",
     "minBuild" : 20261102100433,
-    "releaseNotes" : "1.0.14.0: grabaciones, canal de respaldo, mosaico, modo noche, búsqueda con frases y traducción de subtítulos",
-    "size" : 98344470
+    "releaseNotes" : "Películas y Series incluyen ahora los addons de Stremio con tu debrid (Linkañol, Torrentio, Peerflix): tendencias, búsqueda y fuentes con «Ver ahora». Instálalos desde el botón de addons en Películas.",
+    "size" : 98595699
   },
-  "sig" : "z8H9Hn6YG5t0ff5tgMjfjZQfb-hlrEgP4QMKV1DQnkrBvrJU2KC67FfOjt9BXz6DmzXoW5hwLXPDoUmHYIVqAQ"
+  "sig" : "av_Zba-4DUVbmqBJ1DngR4WQqJa6ydm9oDugwvXletyRjsXZdvwJ72vksodn7NHk1-57ZC3EGf8iGBXt187OAw"
 }
