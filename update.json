@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.26.0-20261104190843\/Parallax-Beta.ipa",
-    "latestBuild" : 20261104190843,
-    "latestVersion" : "1.0.26.0",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.27.0-20261104201146\/Parallax-Beta.ipa",
+    "latestBuild" : 20261104201146,
+    "latestVersion" : "1.0.27.0",
     "minBuild" : 20261102100433,
-    "releaseNotes" : "Versión 1.0.26.0: Catálogo unificado (Películas y Series), optimización de rendimiento en Eventos, mini reproductor persistente y reproducción desde el inicio en eventos en vivo",
-    "size" : 99401939
+    "releaseNotes" : "Mejoras en reproducción ISML y catchup (inicio y rebobinado precisos), mayor estabilidad y búfer en VLC para eventos, y normalización de canales DAZN",
+    "size" : 99401792
   },
-  "sig" : "Qhf89nIrDdYnDpKepJq2vCWdCDgy6P0E9S9297AZy0S2KtqjtcPuDjoZBFpF85BmIoxPOe7PcFVKrBTj3jVECg"
+  "sig" : "2egnjI9AJ0PqZJV_1I6xNjDOKcNV2fKLVsR8dwo2Xtr0TXMqKyIXdmyqY7ubE73ijHsgqwMOdHaPpbzb7RBGDw"
 }
