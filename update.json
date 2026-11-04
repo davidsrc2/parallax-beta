@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.25.0-20261104180756\/Parallax-Beta.ipa",
-    "latestBuild" : 20261104180756,
-    "latestVersion" : "1.0.25.0",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.26.0-20261104190843\/Parallax-Beta.ipa",
+    "latestBuild" : 20261104190843,
+    "latestVersion" : "1.0.26.0",
     "minBuild" : 20261102100433,
-    "releaseNotes" : "Versión 1.0.25.0: Entrada precisa al directo en HLS, soporte de DVR\/Catch-up y máxima fluidez en canales ISML, filtros debrid y configuración web de addons",
-    "size" : 99391184
+    "releaseNotes" : "Versión 1.0.26.0: Catálogo unificado (Películas y Series), optimización de rendimiento en Eventos, mini reproductor persistente y reproducción desde el inicio en eventos en vivo",
+    "size" : 99401939
   },
-  "sig" : "kR9V-LQv264lulv9KWV0BM9RGdJuAFfMeI_uUBnZUyO1b43I6Mql7UoLeB3tcfW7eZNyHt1oYLK8u1sKdMLrBw"
+  "sig" : "Qhf89nIrDdYnDpKepJq2vCWdCDgy6P0E9S9297AZy0S2KtqjtcPuDjoZBFpF85BmIoxPOe7PcFVKrBTj3jVECg"
 }
