@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.19.0-20261103235146\/Parallax-Beta.ipa",
-    "latestBuild" : 20261103235146,
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.19.0-20261104081228\/Parallax-Beta.ipa",
+    "latestBuild" : 20261104081228,
     "latestVersion" : "1.0.19.0",
     "minBuild" : 20261102100433,
-    "releaseNotes" : "Colecciones en Inicio y carpetas; selección de debrid por fuente; scroll a fuentes del episodio en iOS.",
-    "size" : 99013681
+    "releaseNotes" : "Sin ventana flotante al cerrar, pelis más fluidas y descargas de debrid",
+    "size" : 99021911
   },
-  "sig" : "P11VZLn9pAdgkqTbNcqI2vJdv_a8R1hRRUCoSdh5QgNnQZOEuZoOeDq9Qk48ZlYavtkhcwdFIJAYA6mlMbCZDA"
+  "sig" : "MQgTb4Qymh0nNNAHAggNMVPDylf2KlIg__INJzgy2MaFKZ17wsH-HQh1eWHyfH-U2HkT6EcRhiPPrxhr9nopDQ"
 }
