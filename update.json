@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.24.0-20261104155826\/Parallax-Beta.ipa",
-    "latestBuild" : 20261104155826,
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.24.0-20261104163420\/Parallax-Beta.ipa",
+    "latestBuild" : 20261104163420,
     "latestVersion" : "1.0.24.0",
     "minBuild" : 20261102100433,
-    "releaseNotes" : "Corrección de avance en debrid (seeking), arranque directo sin error en Linkañol y reproducción fluida en Mac",
-    "size" : 99130336
+    "releaseNotes" : "Ventana de eventos con seguimiento EPG y catchup + rediseño de UI del reproductor",
+    "size" : 99369631
   },
-  "sig" : "b9P2mYBX42SP0XKAQq4ocN38o5KRHx2PoUR1gvVDGbbi-8u2Y4XbrffT5MEsM13ilRIajkpkDDVOUcNDksvFBg"
+  "sig" : "31-WZi0wtqnYBALNhGxzt3lYUQmkneXiirnMktNv7qNnAb3CxLl9QPKsAnaRPUNgxv1roB80AGMLBdWCKac2AA"
 }
