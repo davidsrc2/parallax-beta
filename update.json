@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.21.0-20261104112748\/Parallax-Beta.ipa",
-    "latestBuild" : 20261104112748,
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.21.0-20261104125118\/Parallax-Beta.ipa",
+    "latestBuild" : 20261104125118,
     "latestVersion" : "1.0.21.0",
     "minBuild" : 20261102100433,
-    "releaseNotes" : "Rediseño completo de películas y series con addons y debrid",
-    "size" : 99117945
+    "releaseNotes" : "Rediseño de addons y debrid + reproducción hardware fluida",
+    "size" : 99121546
   },
-  "sig" : "nuLhtpFXj42iqtbp-5H9gR5JGlrwNVNIHMsQDG518hMDkhD8Q4wOzQxotk3IpIg8LFJcjdj-EzqQ7VLRzsIXDg"
+  "sig" : "wUjmwGbNzcS2fISRHcLyS_rNzkeEJ-KBRrLbhdfRbEYa1HtjNcc7asZZoCxjdZa0nigGs6S_j0uq-A6jeiu1Ag"
 }
