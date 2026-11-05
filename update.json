@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.28.0-20261105001732\/Parallax-Beta.ipa",
-    "latestBuild" : 20261105001732,
-    "latestVersion" : "1.0.28.0",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.30.0-20261105070906\/Parallax-Beta.ipa",
+    "latestBuild" : 20261105070906,
+    "latestVersion" : "1.0.30.0",
     "minBuild" : 20261102100433,
-    "releaseNotes" : "Pestaña de Eventos, catálogo unificado, optimizaciones y controles DVR\/catchup ISML",
-    "size" : 99406456
+    "releaseNotes" : "Parallax 1.0.30.0: Fichas con reparto y tráilers de YouTube, análisis inteligente con IA (Gemini, ChatGPT, Claude), eventos deportivos limpios y mejoras de robustez en ISML y Debrid",
+    "size" : 99514546
   },
-  "sig" : "XaDufbRTTznKSQcPSM5ES6ZBi1C0TBDigUzTw9MDbT_ZO_xLYVutBd1id_N-GbZZTq0CbVXTeVWtTRiREW5gAw"
+  "sig" : "odsDCnuK_Rf5WKhqZjeiS1iiZtyNb9s5Id_oiZYZ-UBqmV0bTLfCl65t9vX6bjHQ-PmqQxP-ECj8UlKLWu7TCA"
 }
