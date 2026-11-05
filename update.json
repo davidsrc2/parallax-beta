@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.33.0-20261105101059\/Parallax-Beta.ipa",
-    "latestBuild" : 20261105101059,
-    "latestVersion" : "1.0.33.0",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.34.0-20261105103549\/Parallax-Beta.ipa",
+    "latestBuild" : 20261105103549,
+    "latestVersion" : "1.0.34.0",
     "minBuild" : 20261102100433,
-    "releaseNotes" : "Parallax 1.0.33: Descubrimiento dinámico de modelos de Google Gemini, selección automática de la versión más reciente (Gemini 2.5 \/ 2.0 Flash) y resolución del error 404 de modelo no encontrado",
-    "size" : 99816653
+    "releaseNotes" : "Parallax 1.0.34: Comprobación de disponibilidad de enlaces de addons, descarga directa de fuentes y selección inteligente sin enlaces caídos",
+    "size" : 99833385
   },
-  "sig" : "OsL7FwPfpEIY-c6O4lu41D6KexeHTK1oTz3RZqc9levheP0ITI5AK_mXeBqtN2WXPFNBqYQwdlKFRXBQ5D5uBQ"
+  "sig" : "GGGRAjOw4NTt8iauEOSxiny80Rwfxs2Ll81rzS2j1FVgT6lXMLaVOOEpz-7EY_vHb20SnvxXgv00mlEqOXI3Dg"
 }
