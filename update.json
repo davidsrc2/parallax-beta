@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.34.0-20261105103549\/Parallax-Beta.ipa",
-    "latestBuild" : 20261105103549,
-    "latestVersion" : "1.0.34.0",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.35.0-20261105113250\/Parallax-Beta.ipa",
+    "latestBuild" : 20261105113250,
+    "latestVersion" : "1.0.35.0",
     "minBuild" : 20261102100433,
-    "releaseNotes" : "Parallax 1.0.34: Comprobación de disponibilidad de enlaces de addons, descarga directa de fuentes y selección inteligente sin enlaces caídos",
-    "size" : 99833385
+    "releaseNotes" : "Versión 1.0.35: Nueva identidad visual anamórfica (Concepto A) y tema Spatial Glass & Titanium. Paridad total en Xtream Codes: reparto interactivo con filmografía de actores, salto a fuentes Debrid 4K en addons, colecciones, Ver más tarde, marcado de vistos y análisis inteligente de tramas con IA.",
+    "size" : 100200711
   },
-  "sig" : "GGGRAjOw4NTt8iauEOSxiny80Rwfxs2Ll81rzS2j1FVgT6lXMLaVOOEpz-7EY_vHb20SnvxXgv00mlEqOXI3Dg"
+  "sig" : "Lmvpaaw0HcgDiiZVe7UWq8dgqIJvpye3Vswl8UTufv-wAGASUIW4D1syVpTzsCpGPFKQbdi2JYcNN2gQ7g-CDw"
 }
