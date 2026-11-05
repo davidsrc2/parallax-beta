@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.30.0-20261105070906\/Parallax-Beta.ipa",
-    "latestBuild" : 20261105070906,
-    "latestVersion" : "1.0.30.0",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.31.0-20261105084556\/Parallax-Beta.ipa",
+    "latestBuild" : 20261105084556,
+    "latestVersion" : "1.0.31.0",
     "minBuild" : 20261102100433,
-    "releaseNotes" : "Parallax 1.0.30.0: Fichas con reparto y tráilers de YouTube, análisis inteligente con IA (Gemini, ChatGPT, Claude), eventos deportivos limpios y mejoras de robustez en ISML y Debrid",
-    "size" : 99514546
+    "releaseNotes" : "Parallax 1.0.31.0: Rediseño visual Obsidian y Liquid Glass, controles flotantes del reproductor, línea de tiempo unificada, filtrado estricto de eventos deportivos para las 10 grandes competiciones y solución a cold-start HLS",
+    "size" : 99614215
   },
-  "sig" : "odsDCnuK_Rf5WKhqZjeiS1iiZtyNb9s5Id_oiZYZ-UBqmV0bTLfCl65t9vX6bjHQ-PmqQxP-ECj8UlKLWu7TCA"
+  "sig" : "WFTHM3DFsA-lZZWqtwI6VUCkJXaHXsFAtJiEvogLwmRM9S2_XjbE5u-_mHm3mE4-VxL_Ak6ReiiO9poM0OI5DA"
 }
