@@ -1,11 +1,11 @@
 {
   "payload" : {
-    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.32.0-20261105095026\/Parallax-Beta.ipa",
-    "latestBuild" : 20261105095026,
-    "latestVersion" : "1.0.32.0",
+    "downloadURL" : "https:\/\/github.com\/davidsrc2\/parallax-beta\/releases\/download\/v1.0.33.0-20261105101059\/Parallax-Beta.ipa",
+    "latestBuild" : 20261105101059,
+    "latestVersion" : "1.0.33.0",
     "minBuild" : 20261102100433,
-    "releaseNotes" : "Parallax 1.0.32: Ficha interactiva y filmografía de actores con Stremio y TMDB, carátulas y logos en canales de inicio, diseño responsive en iPhone, corrección en guardado y endpoints de Gemini\/IA, desambiguación de eventos de baloncesto y reproductor minimalista",
-    "size" : 99808393
+    "releaseNotes" : "Parallax 1.0.33: Descubrimiento dinámico de modelos de Google Gemini, selección automática de la versión más reciente (Gemini 2.5 \/ 2.0 Flash) y resolución del error 404 de modelo no encontrado",
+    "size" : 99816653
   },
-  "sig" : "7k3qbyNH0ZFhjJebkXwtQ3iep9YY4MhYL1f-Hm1zAK9-uiODOpemeVnbAH6WFaomaY3hsYKtbUrKzROBXIz_DA"
+  "sig" : "OsL7FwPfpEIY-c6O4lu41D6KexeHTK1oTz3RZqc9levheP0ITI5AK_mXeBqtN2WXPFNBqYQwdlKFRXBQ5D5uBQ"
 }
